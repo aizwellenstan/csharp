@@ -1,0 +1,40 @@
+"id": 536,
+      "ParentId": "",
+      "ObjectId": "",
+      "ChartURL": "",
+      "Discriptor": "",
+      "Status": "",
+      "Thumbnail": "",
+      "HotdataInfo": [
+        {
+          "Key": "ObjectUnitDescriptor",
+          "Language": "EN",
+          "Value": ""
+        },
+        {
+          "Key": "ocmsSensorName",
+          "Language": "EN",
+          "Value": ""
+        }
+      ],
+      "PointControllerInfo": [
+        {
+          "Key": "DisplayValue0",
+          "Language": "",
+          "Value": ""
+        },
+        {
+          "Key": "DisplayValue1",
+          "Language": "",
+          "Value": ""
+        },
+        {
+          "Key": "ControlHref",
+          "Language": "ControlHref",
+          "Value": "No available"
+        }
+      ],
+      "Information": [],
+      "EmployeeInfo": []
+    }
+  },

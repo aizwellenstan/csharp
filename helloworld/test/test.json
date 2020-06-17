@@ -1,0 +1,542 @@
+[
+  {
+    "ObjectData": {
+      "ObjectId": "士林區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "437378896",
+          "Timestamp": "1564452145"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "士林區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "3257613552",
+          "Timestamp": "1564452145"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "士林區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "3694992448",
+          "Timestamp": "1564452145"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "士林區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "士林區",
+          "Timestamp": "1564452145"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "大同區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "236428856",
+          "Timestamp": "1564452135"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "大同區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "2240400440",
+          "Timestamp": "1564452135"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "大同區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "2476829296",
+          "Timestamp": "1564452135"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "大同區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "大同區",
+          "Timestamp": "1564452135"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "大安區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "534340112",
+          "Timestamp": "1564452122"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "大安區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "5178969216",
+          "Timestamp": "1564452122"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "大安區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "5713309328",
+          "Timestamp": "1564452122"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "大安區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "大安區",
+          "Timestamp": "1564452122"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "中山區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "526858560",
+          "Timestamp": "1564452086"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "中山區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "4882197848",
+          "Timestamp": "1564452086"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "中山區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "5409056408",
+          "Timestamp": "1564452086"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "中山區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "中山區",
+          "Timestamp": "1564452086"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "中正區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "479512168",
+          "Timestamp": "1564452100"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "中正區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "4332184056",
+          "Timestamp": "1564452100"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "中正區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "4811696224",
+          "Timestamp": "1564452100"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "中正區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "中正區",
+          "Timestamp": "1564452100"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "內湖區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "576304440",
+          "Timestamp": "1564452047"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "內湖區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "4802495344",
+          "Timestamp": "1564452047"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "內湖區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "5378799784",
+          "Timestamp": "1564452047"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "內湖區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "內湖區",
+          "Timestamp": "1564452047"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "文山區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "234654304",
+          "Timestamp": "1564452128"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "文山區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "2654445192",
+          "Timestamp": "1564452128"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "文山區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "2889099496",
+          "Timestamp": "1564452128"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "文山區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "文山區",
+          "Timestamp": "1564452128"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "北投區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "328180216",
+          "Timestamp": "1564452102"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "北投區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "2829762008",
+          "Timestamp": "1564452102"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "北投區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "3157942224",
+          "Timestamp": "1564452102"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "北投區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "北投區",
+          "Timestamp": "1564452102"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "松山區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "395592376",
+          "Timestamp": "1564452129"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "松山區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "3489705848",
+          "Timestamp": "1564452129"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "松山區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "3885298224",
+          "Timestamp": "1564452129"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "松山區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "松山區",
+          "Timestamp": "1564452129"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "信義區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "409774520",
+          "Timestamp": "1564452122"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "信義區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "4033611152",
+          "Timestamp": "1564452122"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "信義區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "4443385672",
+          "Timestamp": "1564452122"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "信義區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "信義區",
+          "Timestamp": "1564452122"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "南港區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "177871616",
+          "Timestamp": "1564452046"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "南港區_out_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "1886658968",
+          "Timestamp": "1564452046"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "南港區_out_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "2064530584",
+          "Timestamp": "1564452046"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "南港區_area",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "南港區",
+          "Timestamp": "1564452046"
+        }
+      ]
+    }
+  },
+  {
+    "ObjectData": {
+      "ObjectId": "萬華區_in_bit_total",
+      "Attributes": [
+        {
+          "Key": "Present_Value",
+          "Value": "328517792",
+          "Timestamp": "1564452046"
+        }
+      ]
+    }
+  }
+]

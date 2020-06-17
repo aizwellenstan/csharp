@@ -1,0 +1,11 @@
+/Users/raphtalia/workspace/csharp/helloworld/obj/Debug/netcoreapp2.2/helloworld.csprojAssemblyReference.cache
+/Users/raphtalia/workspace/csharp/helloworld/obj/Debug/netcoreapp2.2/helloworld.csproj.CoreCompileInputs.cache
+/Users/raphtalia/workspace/csharp/helloworld/obj/Debug/netcoreapp2.2/helloworld.AssemblyInfoInputs.cache
+/Users/raphtalia/workspace/csharp/helloworld/obj/Debug/netcoreapp2.2/helloworld.AssemblyInfo.cs
+/Users/raphtalia/workspace/csharp/helloworld/bin/Debug/netcoreapp2.2/helloworld.deps.json
+/Users/raphtalia/workspace/csharp/helloworld/bin/Debug/netcoreapp2.2/helloworld.runtimeconfig.json
+/Users/raphtalia/workspace/csharp/helloworld/bin/Debug/netcoreapp2.2/helloworld.runtimeconfig.dev.json
+/Users/raphtalia/workspace/csharp/helloworld/bin/Debug/netcoreapp2.2/helloworld.dll
+/Users/raphtalia/workspace/csharp/helloworld/bin/Debug/netcoreapp2.2/helloworld.pdb
+/Users/raphtalia/workspace/csharp/helloworld/obj/Debug/netcoreapp2.2/helloworld.dll
+/Users/raphtalia/workspace/csharp/helloworld/obj/Debug/netcoreapp2.2/helloworld.pdb

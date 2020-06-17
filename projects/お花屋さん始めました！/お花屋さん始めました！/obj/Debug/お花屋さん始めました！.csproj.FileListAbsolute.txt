@@ -1,0 +1,6 @@
+C:\Users\souma\Desktop\お花屋さん始めました！\お花屋さん始めました！\bin\Debug\お花屋さん始めました！.exe.config
+C:\Users\souma\Desktop\お花屋さん始めました！\お花屋さん始めました！\bin\Debug\お花屋さん始めました！.exe
+C:\Users\souma\Desktop\お花屋さん始めました！\お花屋さん始めました！\bin\Debug\お花屋さん始めました！.pdb
+C:\Users\souma\Desktop\お花屋さん始めました！\お花屋さん始めました！\obj\Debug\お花屋さん始めました！.csprojAssemblyReference.cache
+C:\Users\souma\Desktop\お花屋さん始めました！\お花屋さん始めました！\obj\Debug\お花屋さん始めました！.exe
+C:\Users\souma\Desktop\お花屋さん始めました！\お花屋さん始めました！\obj\Debug\お花屋さん始めました！.pdb
